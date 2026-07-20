@@ -1,0 +1,5 @@
+OPEN LOOPS — updated by the COS at the end of every session
+============================================================
+
+(nothing yet — the COS writes here: pending decisions, waiting-on items,
+half-finished threads, upcoming deadlines it is tracking for you)
